@@ -1,4 +1,6 @@
 
+COLEMAK BASED:
+
 n  e  i  o
 a  r  s  t
 sp bs de en
@@ -23,6 +25,32 @@ ro = x
 nr = q
 es = j
 ns = z
+
+
+
+
+
+VOWEL BASED:
+
+n  r  s  t
+a  e  i  o
+sp bs de en
+
+
+A:
+   b  c  d
+   f  g  h
+
+N:
+   j  k  l
+   m  p  q
+
+SP:
+   u  v  w
+   x  y  z
+
+
+
 
 
 
